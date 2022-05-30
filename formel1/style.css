@@ -1,0 +1,20 @@
+#headline {
+  font-size: 5rem;
+  text-align: center;
+  background-color: red;
+  font-style: italic;
+  background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2012/09/21/15597/65756732b354ef0a521bb08a9376a69a-700.jpg);
+  color: red;
+  font-weight: bolder;
+  font-family: fantasy;
+}
+
+a.nav-link:link, a.nav-link:visited {
+    font-size:2rem;
+    color: darkblue;
+    font-style:normal;
+}
+
+a.nav-link:hover {
+  background-color: lightblue;
+}
