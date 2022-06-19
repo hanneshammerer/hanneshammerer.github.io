@@ -1,0 +1,124 @@
+.headline {
+  font-size: 5rem;
+  text-align: center;
+  background-color: red;
+  font-style: italic;
+  color: red;
+  font-weight: bolder;
+  font-family: fantasy;
+  }
+
+
+a.nav-link:link, a.nav-link:visited {
+  font-size:2rem;
+  color: darkblue;
+  font-style:normal;
+  }
+
+a.nav-link:hover {
+  background-color: lightblue;
+  }
+
+
+.site-footer {
+  background-color:#26272b;
+  padding:45px 0 20px;
+  font-size:15px;
+  line-height:24px;
+  color:#737373;
+  }
+
+.site-footer h6 {
+  color:#fff;
+  font-size:16px;
+  text-transform:uppercase;
+  margin-top:5px;
+  letter-spacing:2px
+  }
+
+.site-footer a {
+  color:#737373;
+  }
+
+.site-footer a:hover {
+  color:#3366cc;
+  text-decoration:none;
+  }
+
+.footer-links {
+  padding-left:0;
+  list-style:none
+  }
+
+
+
+#headline-Start {
+  background-image: url(https://www.wallpaperup.com/uploads/wallpapers/2012/09/21/15597/65756732b354ef0a521bb08a9376a69a-700.jpg)
+  }
+
+
+
+#headline-Geschichte {
+  background-image: url(https://scuderia.alphatauri.com/wp-content/uploads/2022/04/Imola-History-Yuki-5-Cover-882x498.jpg);
+  }
+
+#Geschichte-body {
+  background-color: lightgrey;
+  }
+
+.Header {
+  font-size: 1.5rem;
+  }
+
+.Underline {
+  font-size: 1rem;
+  color: brown;
+  }
+
+
+
+#headline-Teams {
+  background-image: url(teams.jpg);
+  }
+
+#Teams-body {
+  background-image: url(teams-hintergrund.jpg);
+  color: #778899;
+  }
+
+.headline-teamname {
+  text-align: center;
+  }
+
+.list-group-item {
+  background-color: #add8e6;
+  text-align: center;
+  font-family: monospace;
+  }
+
+.rounded-circle {
+  width: 40%;
+  }
+
+.rounded {
+  width: 40%;
+  }
+
+.img-thumbnail {
+  width: 20%;
+  }
+
+.center {
+  text-align: center;
+  }
+
+
+
+#headline-Strecken {
+  background-image: url(Strecken.jpg);
+  }
+
+#Strecken-body {
+  background-color: black;
+  background-image: url(https://wallpaper.dog/large/20409960.jpg);
+  }
